@@ -31,6 +31,7 @@
     grid-template-columns: repeat(3, 1fr);
     padding: 10px;
   }
+   
   
   .tecla {
     background-color: var(--branca);
